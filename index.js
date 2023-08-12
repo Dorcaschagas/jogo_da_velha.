@@ -76,4 +76,3 @@ function msg(mensagem){
     });
     document.body.appendChild(button)
 }
-
